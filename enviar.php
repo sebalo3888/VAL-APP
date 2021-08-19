@@ -22,7 +22,7 @@ $mensaje .= "Nivel de Fatiga:" . $_POST['user_fatiga'] . " \r\n";
 $mensaje .= "Estado de Humor:" . $_POST['user_humor'] . " \r\n";
 $mensaje .= "Enviado el " . date('d/m/Y', time());
 
-$para = 'cristianveron14@hotmail.com';
+$para = 'sebaalopez20@gmail.com';
 $asunto = 'VAL APP- Monitoreamoe la pija';
 
 mail($para, $asunto, utf8_decode($mensaje), $header);
