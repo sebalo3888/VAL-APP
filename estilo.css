@@ -1,0 +1,32 @@
+.formulario {
+    background-color: #002347;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    margin-left: 35%;
+    border-radius: 5px;
+    margin-top: 15px;
+    
+    
+}
+
+ul{
+    padding-top: 50px;
+}
+ul li {
+    list-style: none;
+    padding-top: 8px;
+    
+}
+
+button {
+    height: 40px;
+    width: 140px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    background-color: #c85b40;
+    color: white;
+    font-weight: bold;
+}
